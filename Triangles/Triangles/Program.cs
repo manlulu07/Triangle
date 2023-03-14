@@ -1,12 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-/*string name = "";*/
-
-//Console.WriteLine("please enter name :");
-//name = Convert.ToString(Console.ReadLine());
-//Console.WriteLine($"Hello, {name}");
-
-//Point A
 
 double x = 0;
 double y = 0;
